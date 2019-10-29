@@ -1,0 +1,6 @@
+/* bootstrap css file */
+
+@import 'bootstrap/bootstrap.min.css';
+@import 'DTW-layout.css';
+@import 'tablet.css';
+@import 'mobile.css';
