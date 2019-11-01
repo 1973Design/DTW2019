@@ -20,8 +20,8 @@ body{
 	color:#DBE80C!important;
 }
 .bg-light{
-	xbackground-color:rgba(8, 46, 79,0.5) !important;
 	background-color: #cecfd0;
+	padding:0px 0px 0px 20px;
 }
 .header-toparea{
 	background-color: #00529c;
@@ -37,6 +37,7 @@ body{
 	color:#fff;
 	font-family: 'Big Shoulders Text', cursive;
 	font-weight: 500;
+	min-height: 60px;
 }
 .section-title h3{
 	margin-bottom:10px;
@@ -71,6 +72,7 @@ body{
 
 h3 span{
 	background: #DBE80C;
+	color:#fff;
 }
 
 .text-center{
@@ -89,8 +91,23 @@ h2,h3,h4{
 	font-weight: 600;
 }
 
-h4 {
+h3 {
 	color:#DBE80C;
+}
+
+h2, h4 {
+	color:#00529c;
+}
+
+h4{
+	font-size:1.2em;
+}
+.text-size{
+	font-size:0.9em;
+	padding:5px;
+}
+.text-left{
+	xtext-align: left;
 }
 .section-about h2{
 	color:#00529c;
@@ -99,7 +116,7 @@ h4 {
 
 .dtw-service{
 	background-color: #f7f7f7;
-	box-shadow: 0 0 12px(136,136,136,0.1);
+	box-shadow: 0 0px 15px rgba(0,0,0,0.1);
 	text-align:center;
 	padding:30px 15px;
 	position:relative;
@@ -107,9 +124,69 @@ h4 {
 	border-radius:4px;
 	transition: all 0.4s ease-in-out 0s;
 	min-height: 250px;
+	margin-bottom:30px;
 }
 
 .dtw-service:hover{
 	background-color: #00529c;
 	color:#fff;
+}
+
+footer{
+	background-color: #f7f7f7;
+	min-height:200px;
+}
+
+.subfooter-column{
+	margin:30px 0px 0px 10px;	
+}
+.footer-copyright{
+	background-color: #292929;
+}
+.copy-right{
+	
+	color:#fff;
+	padding:10px;
+	text-align: center;
+	font-size: 0.9em;
+}
+
+.fa-phone.blue, .fa-envelope.blue, .fa-fax.blue{
+	color:#00529c;
+}
+
+.page-banner{
+	background: #f7f7f7 url(../../images/banner/dakraam-banner.png) no-repeat center;
+	background-size: cover;
+	min-height: 200px;
+	width: 100%;
+}
+
+.page-title{
+	color:#DBE80C;
+}
+
+.page-title h3{
+	font-size:1.2em;
+	padding-top:150px;
+	margin-left:50px;
+	font-family: 'Big Shoulders Text', cursive;
+}
+.banner-button{
+	background:#00529c;
+	width: 50%;
+	padding: 5px 5px;
+	border-radius: 4px;
+	text-align: center;
+	margin-top:150px;
+	
+}
+
+.banner-button h3 a{
+	color:#fff;
+	font-size:0.5em;
+}
+.banner-button h3 a:hover{
+	color:#DBE80C;
+	text-decoration: none;
 }
