@@ -3,8 +3,10 @@
         width: 100%;
         height: auto;
     }
-    .banner-button {
-        margin-bottom: 5px;
+    .lightboxgallery-gallery-item {
         width: 80%;
+      }
+    .algemene-pagina{
+        margin-left:10px;
     }
 }

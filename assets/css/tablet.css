@@ -4,4 +4,11 @@
         width:100%;
         height: auto;
     }
+
+    .lightboxgallery-gallery-item {
+        width: 33.3333%;
+      }
+    .algemene-pagina{
+        margin-left:10px;
+    }
 }

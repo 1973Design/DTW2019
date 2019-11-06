@@ -17,6 +17,7 @@ body {
 .navbar-brand {
     color: #00529c !important;
     font-weight: 600;
+    transition: all 0.4s ease-in-out 0s;
 }
 
 .nav-link:hover {
@@ -44,6 +45,10 @@ body {
     color: #fff;
     font-family: 'Big Shoulders Text', cursive;
     font-weight: 500;
+    min-height: 60px;
+}
+
+.section-blanco{
     min-height: 60px;
 }
 
@@ -107,7 +112,9 @@ h3,
 h4 {
     font-weight: 600;
 }
-
+h2{
+    padding:5px 2px;
+}
 h3 {
     color: #DBE80C;
 }
@@ -177,7 +184,7 @@ footer {
 .fa-phone.blue,
 .fa-envelope.blue,
 .fa-fax.blue,
-p.blue {
+p.blue,.blue {
     color: #00529c;
 }
 
@@ -237,5 +244,99 @@ p.blue {
     padding-top: 5px;
     opacity: 0.5;
 }
+/* Gallery */
+.lightboxgallery-gallery {
+    display: block;
+    margin: 40px -10px 0px -10px;
+  }
+.lightboxgallery-gallery-item {
+    cursor: zoom-in;
+    display: block;
+    float: left;
+    xwidth: 25%;
+  }
 
-bac
+  .lightboxgallery-gallery-item img {
+    width: 100%;
+    height: auto;
+  }
+  .lightboxgallery-gallery-item.vertical-image{
+      height: 50%;
+  }
+
+  .lightboxgallery-image{
+      xwidth: 60%;
+      height: auto;
+  }
+  
+  .lightboxgallery-gallery-item > div {
+    position: relative;
+    margin: 10px;
+  }
+  
+  .lightboxgallery-gallery-item > div:after {
+    content: " ";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,.3) 100%);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,.3) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,.3) 100%);
+    opacity: 0;
+    -webkit-transition: opacity 400ms;
+    transition: opacity 400ms;
+  }
+  
+  .lightboxgallery-gallery-item:hover > div:after {
+    opacity: 1;
+  }
+  
+  .lightboxgallery-gallery-item-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 2;
+    opacity: 0;
+    -webkit-transition: opacity 400ms;
+    transition: opacity 400ms;
+  }
+  
+  .lightboxgallery-gallery-item:hover .lightboxgallery-gallery-item-content {
+    opacity: 1;
+  }
+  
+  .lightboxgallery-gallery-item-title {
+    display: block;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  .btn.btn-primary{
+      background:#00529c;
+      transition: all 0.4s ease-in-out 0s;
+  }
+
+  .btn.btn-primary:hover{
+      color:#DBE80C;
+  }
+
+  .fa-phone.green, .fa-globe.green, .fa-building.green {
+      color:#DBE80C;
+      font-size:3.5em;
+  }
+
+  .green{
+      color:#DBE80C;
+  }
+  .green:hover{
+    color:#DBE80C;
+}
