@@ -4,7 +4,7 @@
     <title>DTW Timmerwerken</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="DTWTimmerwerken werkt met topkwaliteit EPDM, een daksysteem van het hoogste niveau | Vakmanschap - Scherpe prijzen">
     <meta name="author" content="">
 
 
@@ -55,7 +55,7 @@
                 <div class="col-md-4 col-sm-12 ">
                     <div class="content">
                         <h2>EPDM</h2>
-                        <p>DTWtimmerwerken verzorgt ook uw waterafduchting m.b.v. EPDM. werkt met topkwaliteit EPDM, een daksysteem van het hoogste niveau. EPDM-rubberfolie is verreweg de best denkbare dakbedekking die momenteel 
+                        <p>DTWtimmerwerken verzorgt ook uw waterafdichting m.b.v. EPDM. DTW werkt met topkwaliteit EPDM, een daksysteem van het hoogste niveau. EPDM-rubberfolie is verreweg de best denkbare dakbedekking die momenteel 
                             verkrijgbaar is. Naast zijn sublieme eigenschappen, waarvan zijn levensduur van minimaal 40 jaar de belangrijkste is, is dit product zeer geschikt
                             als waterafdichting op daken.</p>
 

@@ -4,7 +4,7 @@
     <title>DTW Timmerwerken</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="DTW Timmerwerken uw specialist in het plaatsen van dakramen maar ook verbouw en nieuwbouw porjecten. Vakmanschap - Scherpe prijs">
     <meta name="author" content="">
 
 
@@ -73,7 +73,7 @@
             </div>
             <div class="col-md-4 col-sm-12 ">
                 <div class="content-image">
-                    <img src="images/over-dtw/training_2019.png " />
+                    <img src="images/over-dtw/training_2019.png " title="DTW Timmerwerken getraind VELUX specialist" />
                 </div>
             </div>
             <div class="col-md-2"></div>

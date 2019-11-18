@@ -3,7 +3,7 @@
 <title>DTW Timmerwerken</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="">
+<meta name="description" content="DTW Timmerwerken uw specialist in het plaatsen van dakramen maar ook verbouw en nieuwbouw porjecten. Vakmanschap - Scherpe prijs">
 <meta name="author" content="">
 
 
@@ -50,7 +50,7 @@
                         <div class="dtw-service">
                             <span></span>
                             <h3>Kwaliteit</h3>
-                            <p>DTW timmerwerken heeft ruime ervaring op het gebied van bouwen, verbouwen en renoveren. 
+                            <p>DTW Timmerwerken heeft ruime ervaring op het gebied van bouwen, verbouwen en renoveren. 
                                 Door onze ruime ervaring kunnen wij u op deze gebieden uitstekend van dienst zijn en u van een goed advies voorzien.
                                 </p>
 
@@ -61,7 +61,7 @@
                         <div class="dtw-service">
                             <span></span>
                             <h3>Uw specialist</h3>
-                            <p>DTWTimmerwerken is VELUX montage partner in Alkmaar en omgeving. Wij kunnen al uw vragen met betrekking tot VELUX 
+                            <p>DTW Timmerwerken is VELUX montage partner in Alkmaar en omgeving. Wij kunnen al uw vragen met betrekking tot VELUX 
                                 producten beantwoorden. Daarnaast monteren wij de producten zeer zorgvuldig en kunt u er van op aan dat wij kwaliteit leveren. 
                                </p>
 
@@ -72,8 +72,8 @@
                         <div class="dtw-service">
                             <span></span>
                             <h3>Scherpe prijs</h3>
-                            <p>Door onze samenwerking met verschillende toe-leveranciers en partners kunnen wij een scherpe prijs voor u neerleggen. 
-                                Neem gerust contact met ons op voor een offerten</p>
+                            <p>Door onze samenwerking met verschillende toeleveranciers en partners kunnen wij een scherpe prijs voor u neerleggen. 
+                                Neem gerust <a href="contact.php" class="green">contact</a> met ons op voor een offerten</p>
 
                         </div>
                     </div>

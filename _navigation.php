@@ -4,7 +4,7 @@
             <div class="row justify-content-end">
                             
                     <div class="col-md-4">
-                                <p class="header-topcontent"><i class="fas fa-phone"></i> 06-12345678 | <i class="fas fa-envelope"></i> info@dtwtimmerwerken.nl | <a href="https://wa.me/310623582650" target="_blank" class="green">WhatsApp</a></p>
+                                <p class="header-topcontent"><i class="fas fa-phone"></i> 06-23582650 | <i class="fas fa-envelope"></i> info@dtwtimmerwerken.nl | <a href="https://wa.me/310623582650" target="_blank" class="green">WhatsApp</a></p>
   
                 </div>
                             

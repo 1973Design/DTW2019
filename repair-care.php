@@ -4,7 +4,7 @@
     <title>DTW Timmerwerken</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="DTW Timmerwerken uw specialist in houtrot reparties met repair care">
     <meta name="author" content="">
 
 
