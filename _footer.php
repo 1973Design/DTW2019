@@ -36,7 +36,7 @@
     <div class="row justify-content-center footer-copyright">
         <div class="col-md-6 col-sm-12">
             <div class="copy-right">
-                DTW Timmerwerken copyright 2019 | <a href="DTW-privacy.php">Privacy/AVG</a>
+                DTW Timmerwerken copyright 2020 | <a href="DTW-privacy.php">Privacy/AVG</a>
             </div>
         </div>
     </div>
