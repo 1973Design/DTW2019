@@ -23,24 +23,22 @@
             </header>
             <?php include '_top-banner.php';?>
             <!--intro-->
-            <div>
-                 <div class="row justify-content-center">
-                     <div class="col-lg-6 col-md-12">
-                         <div class="section-about">
-                                <h2>DTW Timmerwerken uw dakramen specialist</h2>
-                                <p>DTW timmerwerken is gecertificeerd in het monteren van Velux-dakramen. Wilt u uw zolder omtoveren tot een schitterende woonruimte? Dan kan DTWTimmerwerken u nuttige tips geven voor het plannen van uw verbouwing. 
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="section-about">
+                            <h2>DTW Timmerwerken uw dakramen specialist</h2>
+                            <p>DTW timmerwerken is gecertificeerd in het monteren van Velux-dakramen. Wilt u uw zolder omtoveren tot een schitterende woonruimte? Dan kan DTWTimmerwerken u nuttige tips geven voor het plannen van uw verbouwing. 
                                     Daarnaast plaatst DTWTimmerwerken dit zeer zorgvuldig en vakkundig. Een reden voor het plaatsen van een Velux-dakraam kan zijn:</p>
-                                    <ul>
-                                        <li>Daglicht, uitzicht, ventilatie</li>
-                                        <li>Waardevermeerdering</li>
-                                        <li>Vergroten van uw woonruimte</li>
-                                    </ul>
-                                <p>DTWTimmerwerken levert uw kwaliteit, specialisme en maatwerk.</p>
-                         </div>
-                         
-                     </div>
-                 </div>
-            </div>
+                                <ul>
+                                    <li><i class="fas fa-arrow-right"></i>Daglicht, uitzicht, ventilatie</li>
+                                    <li><i class="fas fa-arrow-right"></i>Waardevermeerdering</li>
+                                    <li><i class="fas fa-arrow-right"></i>Vergroten van uw woonruimte</li>
+                                </ul>
+                            <p>DTWTimmerwerken levert uw kwaliteit, specialisme en maatwerk.</p>
+                        </div>  
+                    </div>
+                </div>
+            
             <!--end intro-->
             <!--blocks-->
             <div>
@@ -78,7 +76,38 @@
                         </div>
                     </div>
                 </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="section-about">
+                            <h2>DTW Timmerwerken gegarandeert:</h2>
+                                <ul>
+                                    <li><i class="fas fa-arrow-right"></i>Een professionele aanpak met nakoming van garanties op de werkzaamheden</li>
+                                    <li><i class="fas fa-arrow-right"></i>Er wordt gewerkt in <strong>KEURMERK</strong> en/of <strong>VELUX</strong> richtlijnen van het <strong>SKG-IKOB</strong></li>
+                                    <li><i class="fas fa-arrow-right"></i>Het afdichten van het dak wordt mer <strong>EPDM</strong> en zonder openvuur verwerkt</li>
+                                   
+</ul>
+                        </div>  
+                    </div>
+                </div>
             <!--end blocks-->
+            <!-- foto section met download informatie -->
+            <div class="flex-row info-section">
+                    <div class="col-xs-12">
+                        <div class="row  download-items">
+                            <div class="col-md-4  offset-md-3  dtw-primary-button">
+                           <a href="https://www.velux.nl/service-en-advies/brochure/order-brochure" class="download" target="_blank"> Bestel de VELUX brochure &nbsp;<i class="fas fa-arrow-circle-right"></i></a>
+                            </div>
+                            <div class="col-md-4  dtw-primary-button">
+                            <a href="docs/dakramen_vergunningvrij.pdf" class="download" target="_blank">Vergunningscheck Dakramen <i class="fas fa-file-download"></i></a>
+                            </div>
+                            <div class="col-md-4  dtw-primary-button">
+                            <a href="docs/dakkapellen_vergunningvrij.pdf" target="_blank" class="download">Vergunningscheck Dakkapel <i class="fas fa-file-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+            <!-- End foto section --->
             <div class="row">
                 <div class="col-12">
                         <div class="section-banner">
@@ -99,5 +128,6 @@
         <script src="assets/js/jquery/jquery-3.3.1.slim.min.js "></script>
     
         <script src="bootstrap-4/js/bootstrap.min.js "></script>
+        <script src="assets/js/dtw-script.js "></script>
     </body>
 </html>

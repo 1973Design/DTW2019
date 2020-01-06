@@ -12,7 +12,7 @@
                 <img class="d-block w-100" src="images/slider/baskapel-dakraam2.jpg" alt="Baskapel dakraam">
             </div>
             <div class="carousel-item">
-                    <img class="d-block w-100" src="images/slider/Fakro-dakraam2.jpg" alt="Fakro  dakraam">
+                    <img class="d-block w-100" src="images/slider/fakro-dakraam2.jpg" alt="Fakro  dakraam">
             </div>
         </div>
                     <!--/.Slides-->

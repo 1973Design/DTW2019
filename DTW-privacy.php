@@ -107,6 +107,7 @@
     <script src="assets/js/jquery/jquery-3.3.1.slim.min.js "></script>
 
     <script src="bootstrap-4/js/bootstrap.min.js "></script>
+    <script src="assets/js/dtw-script.js "></script>
 </body>
 
 </html>

@@ -13,4 +13,16 @@
     .banner-button{
         width: 95%;
     }
+
+    .dtw-primary-button{
+        margin-left:50px;
+       
+    }
+    .dtw-primary-button:last-child{
+        margin-bottom:10px;
+    }
+    .nav-mobile{
+        margin-right:15px;
+        margin-top:10px;
+    }
 }

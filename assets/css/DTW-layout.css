@@ -99,13 +99,13 @@ h3 span {
 
 .section-about {
     display: block;
-    margin-top: 30px;
+    margin: 30px 0px;
+    padding: 5px 10px;
+    background: #f7f7f7;
+    border-radius:10px;
     xborder: solid red 1px;
 }
 
-.section-about {
-    padding: 5px 10px;
-}
 
 h2,
 h3,
@@ -339,4 +339,43 @@ p.blue {
   }
   .green:hover{
     color:#DBE80C;
+}
+
+.bg-light-active{
+    xbackground: rgba(204, 207,208,0.9);
+}
+.info-section{
+    background:#fff url(../../images/banner/dakraam-info-section.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 250px;
+    margin:20px 0px;
+
+}
+.download-items{
+   
+}
+.dtw-primary-button{
+    background: rgba(0,82,156, 0.8);
+    color:#fff;
+    padding:10px;
+    border-radius:10px;
+    margin-right: 40px;
+    margin-top: 40px;
+    max-width: 260px;
+}
+.dtw-primary-button a.download, .dtw-primary-button a.download:hover{
+    color:#fff;
+    text-decoration: none;
+
+}
+li{
+    list-style: outside none;
+    margin-left: 1em;
+}
+.fa-arrow-right{
+    color:#00529c;
+    margin-right: 5px;
 }

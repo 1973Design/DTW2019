@@ -80,7 +80,24 @@
         </div>
         <!-- end content part 1-->
 
-       
+         <!-- foto section met download informatie -->
+         <div class="flex-row info-section">
+            <div class="col-xs-12">
+                <div class="row  download-items">
+                    <div class="col-md-4  offset-md-3  dtw-primary-button">
+                    <a href="https://www.velux.nl/service-en-advies/brochure/order-brochure" class="download" target="_blank"> Bestel de VELUX brochure &nbsp;<i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                    <div class="col-md-4  dtw-primary-button">
+                    <a href="docs/dakramen_vergunningvrij.pdf" class="download" target="_blank">Vergunningscheck Dakramen <i class="fas fa-file-download"></i></a>
+                    </div>
+                    <div class="col-md-4  dtw-primary-button">
+                    <a href="docs/dakkapellen_vergunningvrij.pdf" target="_blank" class="download">Vergunningscheck Dakkapel <i class="fas fa-file-download"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- End foto section --->
 
         <?php include '_footer.php';?>
     </main>
@@ -94,6 +111,7 @@
     <script src="assets/js/jquery/jquery-3.3.1.slim.min.js "></script>
 
     <script src="bootstrap-4/js/bootstrap.min.js "></script>
+    <script src="assets/js/dtw-script.js "></script>
 </body>
 
 </html>
